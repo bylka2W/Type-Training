@@ -2,8 +2,6 @@
   <img src="logo.svg" alt="TypeFlow" width="420">
 </p>
 
-<h1 align="center">TypeFlow</h1>
-
 <p align="center">Онлайн-тренажёр слепой печати</p>
 
 <p align="center">
